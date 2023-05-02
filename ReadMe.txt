@@ -1,3 +1,4 @@
+<h2>Como usar</h2>
 O atalho executa o programa no cmd. 
 Caso o caminho do arquivo esteja errado, edite o "Destino" abrindo as "propriedades" do atalho.
 Caso o caminho de seu executável do prompt de comando não seja C:/Windows/System32/cmd.exe altere o caminho do arquivo.
