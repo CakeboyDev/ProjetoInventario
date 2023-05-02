@@ -1,4 +1,4 @@
-<h1>Como usar o programa</h1><br>
+<h1>Como usar o programa</h1>
 <h2>Execução padrão</h2>
 — O atalho executa o programa no cmd.<br>
 <h2>Solução de problemas</h2>
